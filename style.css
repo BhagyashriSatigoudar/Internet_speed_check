@@ -1,0 +1,35 @@
+body{
+font-family: Arial;
+background:#0f172a;
+color:white;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+}
+
+.container{
+text-align:center;
+background:#1e293b;
+padding:40px;
+border-radius:10px;
+}
+
+.speed-box{
+font-size:40px;
+margin:20px;
+}
+
+button{
+padding:10px 20px;
+font-size:18px;
+border:none;
+background:#38bdf8;
+color:white;
+border-radius:5px;
+cursor:pointer;
+}
+
+button:hover{
+background:#0284c7;
+}
